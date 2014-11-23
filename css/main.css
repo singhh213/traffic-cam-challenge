@@ -1,5 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,600,700);
+
 body, input {
-    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 16px;
     font-weight: 300;
 }
@@ -12,4 +14,13 @@ body, input {
 
 input {
     width: 100%;
+}
+
+.gm-style-iw {
+	width: 350px;
+	height: 325px;
+}
+
+#cameralabel {
+	font-size: 18px;
 }
